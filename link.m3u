@@ -248,6 +248,7 @@ http://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/sd1/index.m3u8|Referer=http://sct
 
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/75.png", SCTV9
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd1/index.m3u8|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 tvg-id="sctv10" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/76.png", SCTV10
 http://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
@@ -523,8 +524,7 @@ http://113.162.84.113:8080/hls/fm/index.m3u8
 http://117.4.240.220:80/Medias/HaNam/720P/playlist.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/144.png",Hải Dương
-#https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
-https://vtvgo-livedp.vtvdigital.vn/22f8808ea5c71c535e7c1f08a9d67b0a/1628140780048/haiduongtv/index.m3u8
+https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/145.png",Hải Phòng
 https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
@@ -572,8 +572,7 @@ https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/178.png",Thanh Hóa
-#https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
-https://vtvgo-livedp.vtvdigital.vn/e9f73aba77d3c375a98884e998973dc4/1628140718664/thanhhoatv/index.m3u8
+https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/182.png",Tuyên Quang
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
@@ -656,27 +655,27 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - FOX#
 
-#EXTINF:-1 tvg-id="foxhd" group-title="🦊| FOX" tvg-logo="http://vthanhtivi.cf/ic/185.png", FOX HD
+#EXTINF:-1 tvg-id="foxhd" group-title="🦊| FOX" tvg-logo="http://vthanhtivi.cf/ic/185.png", FOX
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="foxfamilymovieshd" group-title="🦊| FOX" tvg-logo="http://vthanhtivi.cf/ic/186.png", FOX Family Movies HD
+#EXTINF:-1 tvg-id="foxfamilymovieshd" group-title="🦊| FOX" tvg-logo="http://vthanhtivi.cf/ic/186.png", FOX Family Movies
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="foxmovieshd" group-title="🦊| FOX" tvg-logo="http://vthanhtivi.cf/ic/187.png", FOX Movies HD
+#EXTINF:-1 tvg-id="foxmovieshd" group-title="🦊| FOX" tvg-logo="http://vthanhtivi.cf/ic/187.png", FOX Movies
 #https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="foxlifehd" group-title="🦊| FOX" tvg-logo="http://vthanhtivi.cf/ic/188.png", FOX Life HD
+#EXTINF:-1 tvg-id="foxlifehd" group-title="🦊| FOX" tvg-logo="http://vthanhtivi.cf/ic/188.png", FOX Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-id="foxsportshd" group-title="🦊| FOX" tvg-logo="http://vthanhtivi.cf/ic/189.png", FOX Sports 1 HD
+#EXTINF:-1 tvg-id="foxsportshd" group-title="🦊| FOX" tvg-logo="http://vthanhtivi.cf/ic/189.png", FOX Sports 1
 #https://livecdn.fptplay.net/hda2/foxsports_vhls.smil/chunklist_b5000000.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="foxsports2hd" group-title="🦊| FOX" tvg-logo="http://vthanhtivi.cf/ic/190.png", FOX Sports 2 HD
+#EXTINF:-1 tvg-id="foxsports2hd" group-title="🦊| FOX" tvg-logo="http://vthanhtivi.cf/ic/190.png", FOX Sports 2
 https://livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="foxsports3hd" group-title="🦊| FOX" tvg-logo="http://vthanhtivi.cf/ic/191.png", FOX Sports 3 HD
+#EXTINF:-1 tvg-id="foxsports3hd" group-title="🦊| FOX" tvg-logo="http://vthanhtivi.cf/ic/191.png", FOX Sports 3
 #https://livecdn.fptplay.net/hda2/foxsports3_vhls.smil/chunklist_b5000000.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
 
