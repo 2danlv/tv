@@ -223,73 +223,73 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESH
 
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/67.png", SCTV1
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv1/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/68.png", SCTV2
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv2/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv2/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/69.png", SCTV3
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv3/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv3/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/70.png", SCTV4
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv4/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv4/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/71.png", SCTV5
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv5/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv5/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/72.png", SCTV6
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv6/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv6/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/73.png", SCTV7
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv7/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/74.png", SCTV8
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv8/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/75.png", SCTV9
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv9/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv10" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/76.png", SCTV10
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv10/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/77.png", SCTV11
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv11/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv11/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/78.png", SCTV12
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv12/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv12/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/79.png", SCTV13
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv13/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/80.png", SCTV14
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv14/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv14/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/81.png", SCTV15
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv15/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/82.png", SCTV16
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv16/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/83.png", SCTV17
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv17/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/84.png", SCTV18
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv18/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/85.png", SCTV19
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv19/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv19/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/86.png", SCTV20
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv20/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv20/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/87.png", SCTV21
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv21/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/88.png", SCTV22
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="http://vthanhtivi.cf/ic/239.png", SCTV Phim Tổng Hợp
-http://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/sd1/index.m3u8|Referer=http://sctvonline.vn/
+http://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="k1hd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/95.png", K+1 HD
 #http://51.210.99.3:8080/kplus2/index.m3u8
