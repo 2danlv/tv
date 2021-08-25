@@ -540,22 +540,6 @@ https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="🏞️| Quê hương"  tvg-logo="https://i.ibb.co/3hvBwDX/149.png",Hưng Yên
 https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
 
-#EXTINF:0 group-title="🏞️| Quê hương"  tvg-logo="http://vthanhtivi.cf/ic/161.png",Ninh Bình
-#https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/chunklist_b2500000.m3u8
-https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
-
-#EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/160.png",Nghệ An
-#https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
-http://cdn.natv.mediatech.vn/natvlive/tv1live.m3u8
-
-#EXTINF:0 group-title="🏞️| Quê hương"  tvg-logo="http://vthanhtivi.cf/ic/168.png",Quảng Ninh 1
-#https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
-http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
-
-#EXTINF:0 group-title="🏞️| Quê hương"  tvg-logo="http://vthanhtivi.cf/ic/169.png",Quảng Ninh 3
-#https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8
-http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
-
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/154.png",Lai Châu
 https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
 
@@ -570,8 +554,24 @@ http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/159.png",Nam Định
 https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:0 group-title="🏞️| Quê hương"  tvg-logo="http://vthanhtivi.cf/ic/161.png",Ninh Bình
+#https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/chunklist_b2500000.m3u8
+https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
+
+#EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/160.png",Nghệ An
+#https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
+http://cdn.natv.mediatech.vn/natvlive/tv1live.m3u8
+
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/163.png",Phú Thọ
 https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 group-title="🏞️| Quê hương"  tvg-logo="http://vthanhtivi.cf/ic/168.png",Quảng Ninh 1
+#https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
+http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
+
+#EXTINF:0 group-title="🏞️| Quê hương"  tvg-logo="http://vthanhtivi.cf/ic/169.png",Quảng Ninh 3
+#https://livecdn.fptplay.net/sda/quangninh3_hls.smil/chunklist_b2500000.m3u8
+http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/173.png",Sơn La
 https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
