@@ -88,6 +88,8 @@ http://112.197.12.62/secure/vtvcab9/index.m3u8?md5=H-CZgExdlhVls0-cEfpa4Q&expire
 http://112.197.12.62/secure/vtvcab10/index.m3u8?md5=0hgEfHHQDkf2-k5aGSCR8Q&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="http://vthanhtivi.cf/ic/23.png", VTVcab 12 - Style TV
 http://112.197.12.62/secure/vtvcab12/index.m3u8?md5=16_sk-wKZo227CghUseBkQ&expires=2556118740|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="vtvcab13hd" group-title="🍺| VTVcab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/VTVCab_13.png/revision/latest?cb=20191208035746",VTVcab13
+https://vips-livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="http://vthanhtivi.cf/ic/24.png", VTVcab 15
 http://112.197.12.62/secure/vtvcab15/index.m3u8?md5=3JMqSO-g51A9uFwoqY3nUg&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="http://vthanhtivi.cf/ic/26.png", VTVcab 16 - Bóng đá TV HD
@@ -348,7 +350,7 @@ http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="https://i.imgur.com/HqYi1Dw.png",Kiên Giang 1
 #https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
-http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+http://5.101.140.110:8000/play/a01k/index.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/158.png",Long An
 https://livecdn.fptplay.net/sdc/longan_2000.stream/chunklist.m3u8
@@ -383,6 +385,9 @@ https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/117.png",Bình Dương 2
 https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/118.png", Bình Dương 3 HD
+https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/119.png",Bình Dương 4 - iMovie
 https://livecdn.fptplay.net/hda2/btv4hd_hls.smil/chunklist_b2500000.m3u8
@@ -444,10 +449,6 @@ https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/b9e60a77c2c055234df99c4c0a2110e4/
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/138.png",Gia Lai
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/143.png",Hà Tĩnh
-#http://hatinhtv.vn:82/hls/httv.m3u8
-https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="https://kontumtv.vn/wp-content/themes/kontum/imgs/big_logo.png",Kon Tum
 #https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
 https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
@@ -461,10 +462,6 @@ http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/162.png",Ninh Thuận
 https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/160.png",Nghệ An
-#https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
-http://cdn.natv.mediatech.vn/natvlive/tv1live.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/164.png",Phú Yên
 https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
@@ -496,14 +493,14 @@ https://live.hanoitv.vn/hntvlive/tv1live.m3u8
 https://live.hanoitv.vn/hntvlive/tv2live.m3u8
 
 #EXTINF:-1 group-title="Hanoicab" tvg-logo="http://vthanhtivi.cf/ic/102.png", Hanoicab2 - YouTV
-https://live2cdn.todayplus.com.vn/sdb/smil:youtv.smil/chunklist_b1596000.m3u8
+https://vips-livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương"  tvg-logo="https://i.imgur.com/2HAIP3G.png",Bắc Giang
 #https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
 http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/112.png",Bắc Kạn
-http://113.160.162.131:8080/tv/bk.m3u8
+https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/111.png",Bắc Ninh
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
@@ -536,12 +533,20 @@ https://live.thhp.vn/hls/thpplus/index.m3u8
 #https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 
+#EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/143.png",Hà Tĩnh
+#http://hatinhtv.vn:82/hls/httv.m3u8
+https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:0 group-title="🏞️| Quê hương"  tvg-logo="https://i.ibb.co/3hvBwDX/149.png",Hưng Yên
 https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương"  tvg-logo="http://vthanhtivi.cf/ic/161.png",Ninh Bình
 #https://livecdn.fptplay.net/sda/ninhbinh_hls.smil/chunklist_b2500000.m3u8
 https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
+
+#EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/160.png",Nghệ An
+#https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
+http://cdn.natv.mediatech.vn/natvlive/tv1live.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương"  tvg-logo="http://vthanhtivi.cf/ic/168.png",Quảng Ninh 1
 #https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist_b2500000.m3u8
