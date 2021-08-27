@@ -719,9 +719,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="http://vthanhtivi.cf/ic/245.png", Cinemax HD
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 group-title="📽︎| HBO" tvg-logo="https://celestial.show/wp-content/uploads/2021/04/logo-1.png",Celestial Movies
-http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
-
 #EXTINF:-1 tvg-id="hbohd" group-title="🎬| Movie" tvg-logo="http://vthanhtivi.cf/ic/244.png", HBO HD
 https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 
