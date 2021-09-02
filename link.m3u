@@ -285,15 +285,15 @@ https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctvphimtonghop/sd1/index.m3u8?md5=YtjAmEoXNzWyuoMM48a3Ug&expires=2556118740|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 tvg-id="k1hd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/95.png", K+1 HD
-http://fpt1.live.vthanhtivi.cf/k1
+http://103.81.84.80:46803/k1
 
 #EXTINF:-1 tvg-id="knshd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/96.png", K+NS HD
-http://fpt1.live.vthanhtivi.cf/kns
+http://103.81.84.80:46803/kns
 
 #EXTINF:-1 tvg-id="kpmhd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/97.png", K+PM HD
-http://fpt1.live.vthanhtivi.cf/kpm
+http://103.81.84.80:46803/kns
 #EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/98.png", K+PC HD
-http://fpt1.live.vthanhtivi.cf/kpc
+http://103.81.84.80:46803/kpc
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - TH Miền Tây#
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/104.png", THVL1
@@ -688,7 +688,7 @@ http://livecdn.fptplay.net/hda1/blueantent_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| Movie" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movies 1
 #https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
-http://103.81.84.80/boxmovie1
+http://103.81.84.80:46803/boxmovie1
 
 #EXTINF:0  tvg-id="cinema_world" group-title="🎬| Movie" tvg-logo="http://vthanhtivi.cf/ic/232.png",Cinema World
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
@@ -708,7 +708,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 #EXTINF:0 tvg-id="hollywood_classics" group-title="🎬| Movie" tvg-logo="http://vthanhtivi.cf/ic/193.png",⚜️| Hollywood Classics
 #https://e4.endpoint.cdn.sctvonline.vn/secure/hollywood/index.m3u8?md5=clpcBSiOLDJ7332ITIecGA&expires=2556118740|Referer=http://sctvonline.vn/
-http://103.81.84.80/hollywood
+http://103.81.84.80:46803/hollywood
 
 #EXTINF:0 group-title="🎬| Movie" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2017/09/andPrive-HD_6.jpg",&Privé
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
