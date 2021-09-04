@@ -291,7 +291,7 @@ http://103.81.84.80:46803/k1
 http://103.81.84.80:46803/kns
 
 #EXTINF:-1 tvg-id="kpmhd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/97.png", K+PM HD
-http://103.81.84.80:46803/kns
+http://103.81.84.80:46803/kpm
 #EXTINF:-1 tvg-id="kpchd" group-title="K+" tvg-logo="http://vthanhtivi.cf/ic/98.png", K+PC HD
 http://103.81.84.80:46803/kpc
 
