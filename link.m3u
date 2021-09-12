@@ -101,7 +101,7 @@ https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtc3hd" group-title="VTC" tvg-logo="http://vthanhtivi.cf/ic/36.png", VTC3 | ON Sport
-https://livecdn.fptplay.net/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtc4hd" group-title="VTC" tvg-logo="http://vthanhtivi.cf/ic/37.png", VTC4 | Yeah1 Family
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
