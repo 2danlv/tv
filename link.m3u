@@ -394,7 +394,7 @@ https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="Địa phương" tvg-logo="http://vthanhtivi.cf/ic/135.png", Đồng Nai 3
-https://sgn-fpt-001-livecdn-vthcm-vnd.vieon.vn/ff047f6f0b3efc64fdbaa45cfc95f3d0/1628212647422/htv_drm/live/dong_nai_3/playlist.m3u8
+https://live-vthcm.vieon.vn/htv_drm/live/dong_nai_3/TV_HD/dong_nai_3_480p/chunks.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/174.png",Tây Ninh
 #http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
@@ -424,7 +424,7 @@ https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/J5sWWVp.png",Đắk Nông
-https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/b9e60a77c2c055234df99c4c0a2110e4/1628212897927/htv_drm/live/dak_nong/playlist.m3u8
+https://htv-livecdn.fptplay.net/htvonline/daknong.480p.nimble.tms/chunklist.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/138.png",Gia Lai
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
@@ -590,7 +590,7 @@ http://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/243.png", MAN
-http://61.14.233.11:5000/man
+#http://61.14.233.11:5000/man
 
 #EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/197.png", Woman
 https://e4.endpoint.cdn.sctvonline.vn/secure/woman/index.m3u8?md5=nYLg_liiJXqdWAdw4D1wzw&expires=2556118740|Referer=http://sctvonline.vn/
@@ -674,7 +674,6 @@ http://livecdn.fptplay.net/hda1/blueantent_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| Movie" tvg-logo="http://vthanhtivi.cf/ic/192.png", Box Movies 1
 #https://e4.endpoint.cdn.sctvonline.vn/secure/boxmovie1/sd1/index.m3u8?md5=x2aVyF4ODqD23-IuA2MPlg&expires=2556118740|Referer=http://sctvonline.vn/
-http://103.81.84.80:46803/boxmovie1
 
 #EXTINF:0  tvg-id="cinema_world" group-title="🎬| Movie" tvg-logo="http://vthanhtivi.cf/ic/232.png",Cinema World
 https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
