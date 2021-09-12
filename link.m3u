@@ -424,7 +424,7 @@ https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/J5sWWVp.png",Đắk Nông
-https://htv-livecdn.fptplay.net/htvonline/daknong.480p.nimble.tms/chunklist.m3u8
+http://27.67.80.136:18080//116_0.m3u8?AdaptiveType=HLS&SessionID=41284aeb-b1e1-487d-ab9a-32f04c62f970
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/138.png",Gia Lai
 https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
