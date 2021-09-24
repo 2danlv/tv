@@ -594,7 +594,7 @@ http://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/243.png", MAN
-http://103.195.238.226/man/mpegts
+#http://103.195.238.226/man/mpegts
 
 #EXTINF:-1 tvg-id="woman" group-title="In The Box" tvg-logo="http://vthanhtivi.cf/ic/197.png", Woman
 https://e4.endpoint.cdn.sctvonline.vn/secure/woman/index.m3u8?md5=nYLg_liiJXqdWAdw4D1wzw&expires=2556118740|Referer=http://sctvonline.vn/
@@ -697,9 +697,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 #EXTINF:0 tvg-id="hollywood_classics" group-title="🎬| Movie" tvg-logo="http://vthanhtivi.cf/ic/193.png",⚜️| Hollywood Classics
 #https://e4.endpoint.cdn.sctvonline.vn/secure/hollywood/index.m3u8?md5=clpcBSiOLDJ7332ITIecGA&expires=2556118740|Referer=http://sctvonline.vn/
-http://103.195.238.226/hollywood/mpegts
+
 #EXTINF:0 group-title="🎬| Movie" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2017/09/andPrive-HD_6.jpg",&Privé
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="HBO" tvg-logo="http://vthanhtivi.cf/ic/245.png", Cinemax HD
 https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
