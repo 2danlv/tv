@@ -477,8 +477,7 @@ http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_b1384000.m3u8
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/139.png",Hà Giang
-#https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
-http://113.162.84.113:8080/hls/fm/index.m3u8
+https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/140.png",Hà Nam
 #https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
