@@ -1,37 +1,37 @@
-#EXTM3U  url-tvg="http://megavie.live/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U  url-tvg="http://onetv.click/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 
 #https://error404.atomseo.com/SeoListCheck
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- VTV1080#
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="🌾| VTV tvg-logo="https://mytv.com.vn/upload/channel/1.png",VTV1
+#EXTINF:0 tvg-id="vtv1hd" group-title="🌾| VTV" tvg-logo="https://mytv.com.vn/upload/channel/1.png",VTV1
 https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtv2hd" group-title="🌾| VTV tvg-logo="https://mytv.com.vn/upload/channel/2.png",VTV2
+#EXTINF:0 tvg-id="vtv2hd" group-title="🌾| VTV" tvg-logo="https://mytv.com.vn/upload/channel/2.png",VTV2
 https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtv3hd" group-title="🌾| VTV tvg-logo="https://mytv.com.vn/upload/channel/3.png",VTV3
+#EXTINF:0 tvg-id="vtv3hd" group-title="🌾| VTV" tvg-logo="https://mytv.com.vn/upload/channel/3.png",VTV3
 https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtv4hd" group-title="🌾| VTV tvg-logo="https://mytv.com.vn/upload/channel/4.png",VTV4
+#EXTINF:0 tvg-id="vtv4hd" group-title="🌾| VTV" tvg-logo="https://mytv.com.vn/upload/channel/4.png",VTV4
 https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtv5hd" group-title="🌾| VTV tvg-logo="http://vthanhtivi.cf/ic/6.png",VTV5 Tây Nam Bộ
+#EXTINF:0 tvg-id="vtv5hd" group-title="🌾| VTV" tvg-logo="http://vthanhtivi.cf/ic/6.png",VTV5 Tây Nam Bộ
 https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtv5hd" group-title="🌾| VTV tvg-logo="http://vthanhtivi.cf/ic/7.png",VTV5 Tây Nguyên
+#EXTINF:0 tvg-id="vtv5hd" group-title="🌾| VTV" tvg-logo="http://vthanhtivi.cf/ic/7.png",VTV5 Tây Nguyên
 https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
 
-#EXTINF:0 tvg-id="vtv6hd" group-title="🌾| VTV tvg-logo="https://mytv.com.vn/upload/channel/6.png",VTV6
+#EXTINF:0 tvg-id="vtv6hd" group-title="🌾| VTV" tvg-logo="https://mytv.com.vn/upload/channel/6.png",VTV6
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtv7hd" group-title="🌾| VTV tvg-logo="https://mytv.com.vn/upload/channel/phpSBRjtQ_5d75c0b375f97.png",VTV7
+#EXTINF:0 tvg-id="vtv7hd" group-title="🌾| VTV" tvg-logo="https://mytv.com.vn/upload/channel/phpSBRjtQ_5d75c0b375f97.png",VTV7
 https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtv8hd" group-title="🌾| VTV tvg-logo="https://mytv.com.vn/upload/channel/115.png",VTV8
+#EXTINF:0 tvg-id="vtv8hd" group-title="🌾| VTV" tvg-logo="https://mytv.com.vn/upload/channel/115.png",VTV8
 https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:0 tvg-id="vtv9hd" group-title="🌾| VTV tvg-logo="https://mytv.com.vn/upload/channel/117.png",VTV9
+#EXTINF:0 tvg-id="vtv9hd" group-title="🌾| VTV" tvg-logo="https://mytv.com.vn/upload/channel/117.png",VTV9
 https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - Tôi yêu Việt Nam#
@@ -445,12 +445,10 @@ https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - TH Miền Bắc#
 
 #EXTINF:0 tvg-id="hanoitv1" group-title="🏞️| Quê hương"  tvg-logo="http://vthanhtivi.cf/ic/142.png",Hà Nội 1
-#https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
-https://live.hanoitv.vn/hntvlive/tv1live.m3u8
+https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="hanoitv2" group-title="🏞️| Quê hương"  tvg-logo="http://vthanhtivi.cf/ic/142.png",Hà Nội 2
-#https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
-https://live.hanoitv.vn/hntvlive/tv2live.m3u8
+https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 tvg-id="hitv"  group-title="🇻🇳| Tôi yêu Việt Nam" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5b/Logo_HITV_from_2013.png/revision/latest/scale-to-width-down/200?cb=20200831064739&path-prefix=vi",Hanoicab1
 #EXTVLCOPT:http-user-agent="CoocaaTV"
@@ -480,8 +478,7 @@ https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/140.png",Hà Nam
-#https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
-http://117.4.240.220:80/Medias/HaNam/720P/playlist.m3u8
+https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/144.png",Hải Dương
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
@@ -589,6 +586,9 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
 #EXTINF:0  tvg-id="animalhd" group-title="🌐 🇳 🇪 🇹" tvg-logo="http://vthanhtivi.cf/ic/222.png",Animal Planet
 https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 
+#EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://vthanh.xyz/ic/189.png", History HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🌐 🇳 🇪 🇹" tvg-logo="http://vthanhtivi.cf/ic/195.png",Planet Earth
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
 
@@ -620,6 +620,12 @@ http://livecdn.fptplay.net/hda1/blueantext_hls.smil/chunklist_b2500000.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!- Movie#
+
+#EXTINF:-1 tvg-id="blueantent" group-title="🎬| Giải trí" tvg-logo="https://vthanh.xyz/ic/229.png", Rock Entertainment
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="blueantext" group-title="🎬| Giải trí" tvg-logo="https://vthanh.xyz/ic/230.png", Rock Extreme
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="axnhd" group-title="🎬| Movie" tvg-logo="http://vthanhtivi.cf/ic/228.png",AXN
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
@@ -748,3 +754,4 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 
 #EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV 5+
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+
