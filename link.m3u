@@ -379,7 +379,7 @@ https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/tayninhhd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/109.png" ,Vũng Tàu
-https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2800000.m3u8
+https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2500000.m3u8
 
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - TH Miền Trung#
 
@@ -461,7 +461,7 @@ https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/111.png",Bắc Ninh
-https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2800000.m3u8
+https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/127.png",Cao Bằng
 #https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8
@@ -480,7 +480,7 @@ https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/145.png",Hải Phòng
-https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2800000.m3u8
+https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:0 group-title="🏞️| Quê hương" tvg-logo="http://vthanhtivi.cf/ic/146.png",Hải Phòng+
 https://live.thhp.vn/hls/thpplus/index.m3u8
@@ -589,7 +589,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=htt
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0  tvg-id="bbc_lifestyle" group-title="🌐 🇳 🇪 🇹"  tvg-logo="http://vthanhtivi.cf/ic/206.png",BBC Lifestyle
-https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda3/bbclifestyle_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0  tvg-id="discoveryhd" group-title="🌐 🇳 🇪 🇹"  tvg-logo="http://vthanhtivi.cf/ic/223.png",Discovery Channel
 https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
@@ -717,7 +717,7 @@ https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
 #🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔! - NEWS#
 
 #EXTINF:0 g#EXTINF:0 group-title="📰| News" tvg-logo="http://vthanhtivi.cf/ic/208.png",BBC World News
-https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda3/bbcnews_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 group-title="📰| News" tvg-logo="http://vthanhtivi.cf/ic/212.png",CNN
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
@@ -741,4 +741,3 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 
 #EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV 5+
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
-
