@@ -643,7 +643,7 @@ https://livecdn.fptplay.net/hda1/kixhd_hls.smil/chunklist_b2500000.m3u8
 http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0  tvg-id="paramount_network" group-title="🎬| Movie" tvg-logo="http://vthanhtivi.cf/ic/235.png",Paramount
-https://livefpt02.todayplus.com.vn/hdb/smil:paramount.smil/chunklist_w412011942_b2289152.m3u8
+http://52.231.51.194:1708/live/paramount
 
 #EXTINF:0 tvg-id="hollywood_classics" group-title="🎬| Movie" tvg-logo="http://vthanhtivi.cf/ic/193.png",⚜️| Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
