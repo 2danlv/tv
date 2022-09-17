@@ -21,6 +21,7 @@ https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="vtv5hd" group-title="🌾| VTV" tvg-logo="http://vthanhtivi.cf/ic/7.png",VTV5 Tây Nguyên
 #https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
+https://hqth.me/v5tn
 
 #EXTINF:0 tvg-id="vtv6hd" group-title="🌾| VTV" tvg-logo="https://mytv.com.vn/upload/channel/6.png",VTV6
 https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
@@ -717,3 +718,12 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
 
 #EXTINF:0 group-title="🏀| Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV 5+
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+
+#EXTINF:-1 tvg-id="kcinehd" group-title="Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", Kẹo Phim HD
+http://222.255.117.230/kcine/mpegts
+#EXTINF:-1 tvg-id="klifehd" group-title="Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", Kẹo Cuộc Sống HD
+http://222.255.117.230/klife/mpegts
+#EXTINF:-1 tvg-id="ksport1hd" group-title="Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", Kẹo thể thao 1 HD
+http://222.255.117.230/ksport1/mpegts
+#EXTINF:-1 tvg-id="ksport2hd" group-title="Kẹo" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", Kẹo thể thao 2 HD
+http://222.255.117.230/ksport2/mpegts
